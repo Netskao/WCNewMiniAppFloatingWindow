@@ -1,0 +1,9 @@
+Package: com.netskao.wcnewminiappfloatingwindow
+Name: WCNewMiniAppFloatingWindow
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 14.0)
+Description: WeChat Enables AB Tested miniApp Floating Window Feature, Only 8.0.54+
+Author: Netskao
+Maintainer: Nets
+Section: Netskao-Tweaks
